@@ -3,9 +3,9 @@ package UvodUProgramiranje;
 public class VarijableITipoviPodataka {
 
     public static void main (String[]args) {
-/*
+
         String ime = "Slobodan";
-        int godine = 30;
+ /*       int godine = 30;
         double visina = 1.85;
         boolean zaposlen = true;
         float plata = 500.5f;
@@ -30,5 +30,7 @@ public class VarijableITipoviPodataka {
         int brojCeo = Integer.parseInt(brojText);
 
         System.out.println(brojCeo);
+
+        System.out.println("Ja sam " + ime);
     }
 }
